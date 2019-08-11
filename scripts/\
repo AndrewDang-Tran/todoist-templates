@@ -1,0 +1,14 @@
+#!/usr/bin/python3
+
+from scripts import ConfigManager
+import requests
+
+class Todoist: 
+    def __init__(self):
+        self.configManager = ConfigManager();
+        print 'finished init todoist'
+
+
+    def getAllProjects(self):
+        print 'soemthing'
+

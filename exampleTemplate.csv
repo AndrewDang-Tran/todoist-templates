@@ -1,0 +1,9 @@
+TYPE,CONTENT,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG,TIMEZONE
+task,set up keyboard + phone setup @.day,4,1,andrewdt1506 (17508564),,,en,America/Los_Angeles
+,,,,,,,,
+task,improve how toggl projects are received and get nicknames through updating some json files that get updates by the project apis @.hour,4,1,andrewdt1506 (17508564),,,en,America/Los_Angeles
+,,,,,,,,
+task,add scripts to bulk input cards into anki easily from a simple formatted file with the tags I want @.day,4,1,andrewdt1506 (17508564),,,en,America/Los_Angeles
+,,,,,,,,
+task,set up plex for music @.week,4,1,andrewdt1506 (17508564),,,en,America/Los_Angeles
+,,,,,,,,
